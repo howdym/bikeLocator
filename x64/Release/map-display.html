@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+	<meta charset="UTF-8">
+	<title>A Basic Map</title>
+	<style>
+		#map {
+			height: 100%;
+		}
+		/* Optional: Makes the sample page fill the window. */
+		html, body {
+			height: 100%;
+			margin: 0;
+			padding: 0;
+		}
+	</style>
+	<script>
+
+	function initMap() {
+    $.ajax({
+	    type: "GET",
+	    async: true,
+	    url: "display.xml",
+	    dataType: "xml",
+	    success:
+	    function (xml) {
+        var places = xml.documentElement.getElementsByTagName("place");
+        
+        var latAvg = 0;
+        var longAvg = 0;
+        
+        var bounds = new google.maps.LatLngBounds();
+    
+        for (var i = 0; i < places.length; i++) { 
+          latAvg = latAvg + Number(places[i].getAttribute('latitude'));
+          longAvg = longAvg + Number(places[i].getAttribute('longitude'));
+          bounds.extend (new google.maps.LatLng(places[i].getAttribute('latitude'), places[i].getAttribute('longitude')));
+        }
+
+        latAvg = latAvg / places.length;
+        longAvg = longAvg / places.length;
+
+        var mapOptions = {
+          zoom: 3,
+          center: new google.maps.LatLng(latAvg, longAvg),
+          mapTypeId: 'roadmap'
+        };
+        
+        var map = new google.maps.Map(document.getElementById('map'), mapOptions);
+
+        map.fitBounds(bounds);
+
+        for (var i = 0; i < places.length; i++) {
+          var lat = places[i].getAttribute('latitude');
+          var long = places[i].getAttribute('longitude');
+          var latLng = new google.maps.LatLng(lat, long);
+          var marker = new google.maps.Marker({
+              position:  latLng,
+              map: map,
+              label:places[i].name
+          });
+        }
+	    }
+    });
+	}
+	</script>
+</head>
+<body>
+<div id="map"></div>
+<script async defer
+    src="https://maps.googleapis.com/maps/api/js?key=API-KEY-HERE&callback=initMap">
+</script>
+</body>
+</html>
+

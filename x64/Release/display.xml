@@ -1,0 +1,584 @@
+<root>
+	<place name ="2112 W Peterson Ave" latitude="41.991178" longitude="-87.683593"/>
+	<place name ="63rd St Beach" latitude="41.781016" longitude="-87.576120"/>
+	<place name ="900 W Harrison St" latitude="41.874675" longitude="-87.650019"/>
+	<place name ="Aberdeen St &amp; Jackson Blvd" latitude="41.877726" longitude="-87.654787"/>
+	<place name ="Aberdeen St &amp; Madison (Monroe) St" latitude="41.881567" longitude="-87.655056"/>
+	<place name ="Ada St &amp; Washington Blvd" latitude="41.882830" longitude="-87.661206"/>
+	<place name ="Adler Planetarium" latitude="41.866095" longitude="-87.607267"/>
+	<place name ="Albany (Kedzie) Ave &amp; Montrose Ave" latitude="41.961041" longitude="-87.705866"/>
+	<place name ="Albany Ave &amp; 26th St" latitude="41.844475" longitude="-87.702013"/>
+	<place name ="Albany Ave &amp; Bloomingdale Ave" latitude="41.914027" longitude="-87.705126"/>
+	<place name ="Artesian Ave &amp; Hubbard St" latitude="41.889492" longitude="-87.688219"/>
+	<place name ="Ashland Ave &amp; 13th St" latitude="41.865234" longitude="-87.666507"/>
+	<place name ="Ashland Ave &amp; 21st St" latitude="41.853810" longitude="-87.665897"/>
+	<place name ="Ashland Ave &amp; 50th St" latitude="41.803023" longitude="-87.664699"/>
+	<place name ="Ashland Ave &amp; 63rd St" latitude="41.779374" longitude="-87.664843"/>
+	<place name ="Ashland Ave &amp; 66th St" latitude="41.774074" longitude="-87.663815"/>
+	<place name ="Ashland Ave &amp; 69th St" latitude="41.768726" longitude="-87.664069"/>
+	<place name ="Ashland Ave &amp; Archer Ave" latitude="41.839209" longitude="-87.665610"/>
+	<place name ="Ashland Ave &amp; Augusta Blvd" latitude="41.899643" longitude="-87.667700"/>
+	<place name ="Ashland Ave &amp; Belle Plaine Ave" latitude="41.956061" longitude="-87.668869"/>
+	<place name ="Ashland Ave &amp; Blackhawk St" latitude="41.907066" longitude="-87.667252"/>
+	<place name ="Ashland Ave &amp; Chicago Ave" latitude="41.895966" longitude="-87.667747"/>
+	<place name ="Ashland Ave &amp; Division St" latitude="41.903450" longitude="-87.667747"/>
+	<place name ="Ashland Ave &amp; Garfield Blvd" latitude="41.792822" longitude="-87.664429"/>
+	<place name ="Ashland Ave &amp; Grace St" latitude="41.950687" longitude="-87.668700"/>
+	<place name ="Ashland Ave &amp; Grand Ave" latitude="41.891072" longitude="-87.666611"/>
+	<place name ="Ashland Ave &amp; Harrison St" latitude="41.874291" longitude="-87.667246"/>
+	<place name ="Ashland Ave &amp; Lake St" latitude="41.885410" longitude="-87.667320"/>
+	<place name ="Ashland Ave &amp; McDowell Ave" latitude="41.808870" longitude="-87.664540"/>
+	<place name ="Ashland Ave &amp; Pershing Rd" latitude="41.823465" longitude="-87.665577"/>
+	<place name ="Ashland Ave &amp; Wellington Ave" latitude="41.936083" longitude="-87.669807"/>
+	<place name ="Ashland Ave &amp; Wrightwood Ave" latitude="41.928830" longitude="-87.668507"/>
+	<place name ="Austin Blvd &amp; Chicago Ave" latitude="41.894887" longitude="-87.774704"/>
+	<place name ="Austin Blvd &amp; Lake St" latitude="41.887919" longitude="-87.774446"/>
+	<place name ="Avers Ave &amp; Belmont Ave" latitude="41.939364" longitude="-87.722247"/>
+	<place name ="Avondale Ave &amp; Irving Park Rd" latitude="41.953393" longitude="-87.732002"/>
+	<place name ="Bennett Ave &amp; 79th St" latitude="41.751785" longitude="-87.578496"/>
+	<place name ="Bissell St &amp; Armitage Ave" latitude="41.918440" longitude="-87.652220"/>
+	<place name ="Blackstone Ave &amp; Hyde Park Blvd" latitude="41.802562" longitude="-87.590368"/>
+	<place name ="Blue Island Ave &amp; 18th St" latitude="41.857556" longitude="-87.661535"/>
+	<place name ="Bosworth Ave &amp; Howard St" latitude="42.019537" longitude="-87.669563"/>
+	<place name ="Broadway &amp; Argyle St" latitude="41.973815" longitude="-87.659660"/>
+	<place name ="Broadway &amp; Barry Ave" latitude="41.937725" longitude="-87.644095"/>
+	<place name ="Broadway &amp; Belmont Ave" latitude="41.940106" longitude="-87.645451"/>
+	<place name ="Broadway &amp; Berwyn Ave" latitude="41.978353" longitude="-87.659753"/>
+	<place name ="Broadway &amp; Cornelia Ave" latitude="41.945529" longitude="-87.646439"/>
+	<place name ="Broadway &amp; Granville Ave" latitude="41.994780" longitude="-87.660285"/>
+	<place name ="Broadway &amp; Ridge Ave" latitude="41.984045" longitude="-87.660274"/>
+	<place name ="Broadway &amp; Sheridan Rd" latitude="41.952833" longitude="-87.649993"/>
+	<place name ="Broadway &amp; Thorndale Ave" latitude="41.989743" longitude="-87.660141"/>
+	<place name ="Broadway &amp; Waveland Ave" latitude="41.949065" longitude="-87.648601"/>
+	<place name ="Broadway &amp; Wilson Ave" latitude="41.965485" longitude="-87.657238"/>
+	<place name ="Buckingham Fountain" latitude="41.881060" longitude="-87.619486"/>
+	<place name ="Budlong Woods Library" latitude="41.983665" longitude="-87.696423"/>
+	<place name ="Burnham Harbor" latitude="41.856268" longitude="-87.613348"/>
+	<place name ="California Ave &amp; 21st St" latitude="41.854016" longitude="-87.695445"/>
+	<place name ="California Ave &amp; 23rd Pl" latitude="41.849110" longitude="-87.695140"/>
+	<place name ="California Ave &amp; 26th St" latitude="41.844040" longitude="-87.695296"/>
+	<place name ="California Ave &amp; Altgeld St" latitude="41.926690" longitude="-87.697668"/>
+	<place name ="California Ave &amp; Byron St" latitude="41.952162" longitude="-87.698051"/>
+	<place name ="California Ave &amp; Cortez St" latitude="41.900363" longitude="-87.696704"/>
+	<place name ="California Ave &amp; Division St" latitude="41.903029" longitude="-87.697474"/>
+	<place name ="California Ave &amp; Fletcher St" latitude="41.938429" longitude="-87.698008"/>
+	<place name ="California Ave &amp; Francis Pl" latitude="41.918121" longitude="-87.696972"/>
+	<place name ="California Ave &amp; Lake St" latitude="41.884454" longitude="-87.696298"/>
+	<place name ="California Ave &amp; Milwaukee Ave" latitude="41.922695" longitude="-87.697153"/>
+	<place name ="California Ave &amp; Montrose Ave" latitude="41.961068" longitude="-87.695439"/>
+	<place name ="California Ave &amp; North Ave" latitude="41.910440" longitude="-87.697200"/>
+	<place name ="Calumet Ave &amp; 18th St" latitude="41.857611" longitude="-87.619407"/>
+	<place name ="Calumet Ave &amp; 21st St" latitude="41.854184" longitude="-87.619154"/>
+	<place name ="Calumet Ave &amp; 33rd St" latitude="41.834900" longitude="-87.617930"/>
+	<place name ="Calumet Ave &amp; 35th St" latitude="41.831379" longitude="-87.618034"/>
+	<place name ="Calumet Ave &amp; 51st St" latitude="41.802295" longitude="-87.618054"/>
+	<place name ="Calumet Ave &amp; 71st St" latitude="41.765508" longitude="-87.616918"/>
+	<place name ="Campbell Ave &amp; Fullerton Ave" latitude="41.924632" longitude="-87.689307"/>
+	<place name ="Campbell Ave &amp; Montrose Ave" latitude="41.961526" longitude="-87.691165"/>
+	<place name ="Campbell Ave &amp; North Ave" latitude="41.910535" longitude="-87.689556"/>
+	<place name ="Canal St &amp; Adams St" latitude="41.879255" longitude="-87.639904"/>
+	<place name ="Canal St &amp; Harrison St" latitude="41.874337" longitude="-87.639566"/>
+	<place name ="Canal St &amp; Jackson Blvd" latitude="41.877245" longitude="-87.639366"/>
+	<place name ="Canal St &amp; Madison St" latitude="41.882091" longitude="-87.639833"/>
+	<place name ="Canal St &amp; Monroe St (*)" latitude="41.880884" longitude="-87.639525"/>
+	<place name ="Canal St &amp; Taylor St" latitude="41.870257" longitude="-87.639474"/>
+	<place name ="Cannon Dr &amp; Fullerton Ave" latitude="41.926756" longitude="-87.634429"/>
+	<place name ="Carpenter St &amp; Huron St" latitude="41.894556" longitude="-87.653449"/>
+	<place name ="Central Ave &amp; Chicago Ave" latitude="41.894958" longitude="-87.764902"/>
+	<place name ="Central Ave &amp; Harrison St" latitude="41.872993" longitude="-87.764499"/>
+	<place name ="Central Ave &amp; Lake St" latitude="41.887664" longitude="-87.765469"/>
+	<place name ="Central Ave &amp; Madison St" latitude="41.880121" longitude="-87.763238"/>
+	<place name ="Central Park Ave &amp; Elbridge Ave" latitude="41.935337" longitude="-87.716889"/>
+	<place name ="Central Park Ave &amp; North Ave" latitude="41.909657" longitude="-87.716632"/>
+	<place name ="Central Park Ave &amp; Ogden Ave" latitude="41.854204" longitude="-87.715406"/>
+	<place name ="Central Park Blvd &amp; 5th Ave" latitude="41.875679" longitude="-87.715470"/>
+	<place name ="Christiana Ave &amp; Lawrence Ave" latitude="41.968354" longitude="-87.711831"/>
+	<place name ="Cicero Ave &amp; Flournoy St" latitude="41.872131" longitude="-87.746619"/>
+	<place name ="Cicero Ave &amp; Lake St" latitude="41.886841" longitude="-87.745261"/>
+	<place name ="Cicero Ave &amp; Quincy St" latitude="41.877613" longitude="-87.745405"/>
+	<place name ="Cityfront Plaza Dr &amp; Pioneer Ct" latitude="41.890573" longitude="-87.622072"/>
+	<place name ="Claremont Ave &amp; Hirsch St" latitude="41.907781" longitude="-87.685854"/>
+	<place name ="Clarendon Ave &amp; Gordon Ter" latitude="41.957879" longitude="-87.649519"/>
+	<place name ="Clarendon Ave &amp; Junior Ter" latitude="41.961004" longitude="-87.649603"/>
+	<place name ="Clarendon Ave &amp; Leland Ave" latitude="41.967968" longitude="-87.650001"/>
+	<place name ="Clark St &amp; 9th St (AMLI)" latitude="41.870816" longitude="-87.631246"/>
+	<place name ="Clark St &amp; Armitage Ave" latitude="41.918306" longitude="-87.636282"/>
+	<place name ="Clark St &amp; Berwyn Ave" latitude="41.977997" longitude="-87.668047"/>
+	<place name ="Clark St &amp; Bryn Mawr Ave" latitude="41.983593" longitude="-87.669154"/>
+	<place name ="Clark St &amp; Chicago Ave" latitude="41.896544" longitude="-87.630931"/>
+	<place name ="Clark St &amp; Columbia Ave" latitude="42.004451" longitude="-87.672402"/>
+	<place name ="Clark St &amp; Congress Pkwy" latitude="41.875933" longitude="-87.630585"/>
+	<place name ="Clark St &amp; Elm St" latitude="41.902973" longitude="-87.631280"/>
+	<place name ="Clark St &amp; Elmdale Ave" latitude="41.990894" longitude="-87.669583"/>
+	<place name ="Clark St &amp; Grace St" latitude="41.950780" longitude="-87.659172"/>
+	<place name ="Clark St &amp; Jarvis Ave" latitude="42.015963" longitude="-87.675005"/>
+	<place name ="Clark St &amp; Lake St" latitude="41.886021" longitude="-87.630876"/>
+	<place name ="Clark St &amp; Leland Ave" latitude="41.967096" longitude="-87.667429"/>
+	<place name ="Clark St &amp; Lincoln Ave" latitude="41.915689" longitude="-87.634600"/>
+	<place name ="Clark St &amp; Lunt Ave" latitude="42.009074" longitude="-87.674190"/>
+	<place name ="Clark St &amp; Montrose Ave" latitude="41.961588" longitude="-87.666036"/>
+	<place name ="Clark St &amp; North Ave" latitude="41.911974" longitude="-87.631942"/>
+	<place name ="Clark St &amp; Randolph St" latitude="41.884576" longitude="-87.631890"/>
+	<place name ="Clark St &amp; Schiller St" latitude="41.907993" longitude="-87.631501"/>
+	<place name ="Clark St &amp; Schreiber Ave" latitude="41.999252" longitude="-87.671377"/>
+	<place name ="Clark St &amp; Touhy Ave" latitude="42.012560" longitude="-87.674367"/>
+	<place name ="Clark St &amp; Wellington Ave" latitude="41.936497" longitude="-87.647539"/>
+	<place name ="Clark St &amp; Winnemac Ave" latitude="41.973385" longitude="-87.668365"/>
+	<place name ="Clark St &amp; Wrightwood Ave" latitude="41.929546" longitude="-87.643118"/>
+	<place name ="Clifton Ave &amp; Armitage Ave" latitude="41.918216" longitude="-87.656936"/>
+	<place name ="Clifton Ave &amp; Lawrence Ave" latitude="41.968873" longitude="-87.658857"/>
+	<place name ="Clinton St &amp; 18th St" latitude="41.857950" longitude="-87.640826"/>
+	<place name ="Clinton St &amp; Lake St" latitude="41.885637" longitude="-87.641823"/>
+	<place name ="Clinton St &amp; Madison St" latitude="41.882242" longitude="-87.641066"/>
+	<place name ="Clinton St &amp; Polk St (*)" latitude="41.871467" longitude="-87.640949"/>
+	<place name ="Clinton St &amp; Roosevelt Rd" latitude="41.867118" longitude="-87.641088"/>
+	<place name ="Clinton St &amp; Tilden St" latitude="41.875885" longitude="-87.640795"/>
+	<place name ="Clinton St &amp; Washington Blvd" latitude="41.883380" longitude="-87.641170"/>
+	<place name ="Clybourn Ave &amp; Division St" latitude="41.904613" longitude="-87.640552"/>
+	<place name ="Columbus Dr &amp; Randolph St" latitude="41.884728" longitude="-87.619521"/>
+	<place name ="Commercial Ave &amp; 83rd St" latitude="41.744607" longitude="-87.551201"/>
+	<place name ="Conservatory Dr &amp; Lake St" latitude="41.885502" longitude="-87.716866"/>
+	<place name ="Cornell Ave &amp; Hyde Park Blvd" latitude="41.802406" longitude="-87.586924"/>
+	<place name ="Cottage Grove Ave &amp; 43rd St" latitude="41.816499" longitude="-87.606582"/>
+	<place name ="Cottage Grove Ave &amp; 47th St" latitude="41.809855" longitude="-87.606755"/>
+	<place name ="Cottage Grove Ave &amp; 51st St" latitude="41.803038" longitude="-87.606615"/>
+	<place name ="Cottage Grove Ave &amp; 63rd St" latitude="41.780599" longitude="-87.606112"/>
+	<place name ="Cottage Grove Ave &amp; 67th St" latitude="41.773721" longitude="-87.605635"/>
+	<place name ="Cottage Grove Ave &amp; 71st St" latitude="41.765719" longitude="-87.604960"/>
+	<place name ="Cottage Grove Ave &amp; 78th St" latitude="41.753174" longitude="-87.605026"/>
+	<place name ="Cottage Grove Ave &amp; 83rd St" latitude="41.744053" longitude="-87.604786"/>
+	<place name ="Cottage Grove Ave &amp; Oakwood Blvd" latitude="41.822985" longitude="-87.607100"/>
+	<place name ="Daley Center Plaza" latitude="41.884241" longitude="-87.629634"/>
+	<place name ="Damen Ave &amp; 51st St" latitude="41.800908" longitude="-87.674684"/>
+	<place name ="Damen Ave &amp; 59th St" latitude="41.786020" longitude="-87.674167"/>
+	<place name ="Damen Ave &amp; Augusta Blvd" latitude="41.899113" longitude="-87.677212"/>
+	<place name ="Damen Ave &amp; Charleston St" latitude="41.920082" longitude="-87.677855"/>
+	<place name ="Damen Ave &amp; Chicago Ave" latitude="41.895769" longitude="-87.677220"/>
+	<place name ="Damen Ave &amp; Clybourn Ave" latitude="41.931931" longitude="-87.677856"/>
+	<place name ="Damen Ave &amp; Cortland St" latitude="41.916027" longitude="-87.677411"/>
+	<place name ="Damen Ave &amp; Coulter St" latitude="41.849200" longitude="-87.675640"/>
+	<place name ="Damen Ave &amp; Cullerton St" latitude="41.855048" longitude="-87.675726"/>
+	<place name ="Damen Ave &amp; Division St" latitude="41.903310" longitude="-87.676950"/>
+	<place name ="Damen Ave &amp; Foster Ave" latitude="41.975615" longitude="-87.679459"/>
+	<place name ="Damen Ave &amp; Grand Ave" latitude="41.891220" longitude="-87.676860"/>
+	<place name ="Damen Ave &amp; Leland Ave" latitude="41.967094" longitude="-87.679028"/>
+	<place name ="Damen Ave &amp; Madison St" latitude="41.881370" longitude="-87.674930"/>
+	<place name ="Damen Ave &amp; Melrose Ave" latitude="41.940600" longitude="-87.678500"/>
+	<place name ="Damen Ave &amp; Pershing Rd" latitude="41.823192" longitude="-87.676597"/>
+	<place name ="Damen Ave &amp; Pierce Ave" latitude="41.909396" longitude="-87.677692"/>
+	<place name ="Damen Ave &amp; Sunnyside Ave" latitude="41.963250" longitude="-87.679258"/>
+	<place name ="Damen Ave &amp; Wellington Ave" latitude="41.935880" longitude="-87.678420"/>
+	<place name ="Dayton St &amp; North Ave" latitude="41.910578" longitude="-87.649422"/>
+	<place name ="Dearborn Pkwy &amp; Delaware Pl" latitude="41.898969" longitude="-87.629912"/>
+	<place name ="Dearborn St &amp; Adams St" latitude="41.879356" longitude="-87.629791"/>
+	<place name ="Dearborn St &amp; Erie St" latitude="41.893992" longitude="-87.629318"/>
+	<place name ="Dearborn St &amp; Monroe St" latitude="41.881320" longitude="-87.629521"/>
+	<place name ="Desplaines St &amp; Jackson Blvd" latitude="41.878287" longitude="-87.643909"/>
+	<place name ="Desplaines St &amp; Kinzie St" latitude="41.888716" longitude="-87.644448"/>
+	<place name ="Desplaines St &amp; Randolph St" latitude="41.884616" longitude="-87.644571"/>
+	<place name ="Dorchester Ave &amp; 49th St" latitude="41.805772" longitude="-87.592464"/>
+	<place name ="Dorchester Ave &amp; 63rd St" latitude="41.780406" longitude="-87.591416"/>
+	<place name ="Drake Ave &amp; Addison St" latitude="41.947326" longitude="-87.717582"/>
+	<place name ="Drake Ave &amp; Fullerton Ave" latitude="41.924399" longitude="-87.715441"/>
+	<place name ="Drake Ave &amp; Montrose Ave" latitude="41.961154" longitude="-87.716569"/>
+	<place name ="Dusable Harbor" latitude="41.885042" longitude="-87.612795"/>
+	<place name ="DuSable Museum" latitude="41.791568" longitude="-87.607852"/>
+	<place name ="Eastlake Ter &amp; Rogers Ave" latitude="42.021019" longitude="-87.665086"/>
+	<place name ="Eberhart Ave &amp; 61st St" latitude="41.784142" longitude="-87.613308"/>
+	<place name ="Eckhart Park" latitude="41.896373" longitude="-87.660984"/>
+	<place name ="Elizabeth St &amp; 47th St" latitude="41.808390" longitude="-87.656526"/>
+	<place name ="Ellis Ave &amp; 53rd St" latitude="41.799336" longitude="-87.600958"/>
+	<place name ="Ellis Ave &amp; 55th St" latitude="41.794301" longitude="-87.601450"/>
+	<place name ="Ellis Ave &amp; 58th St" latitude="41.788746" longitude="-87.601334"/>
+	<place name ="Ellis Ave &amp; 60th St" latitude="41.785097" longitude="-87.601073"/>
+	<place name ="Ellis Ave &amp; 83rd St" latitude="41.744123" longitude="-87.599034"/>
+	<place name ="Elston Ave &amp; Wabansia Ave" latitude="41.912919" longitude="-87.664169"/>
+	<place name ="Emerald Ave &amp; 28th St" latitude="41.843580" longitude="-87.645368"/>
+	<place name ="Emerald Ave &amp; 31st St" latitude="41.838198" longitude="-87.645143"/>
+	<place name ="Evans Ave &amp; 75th St" latitude="41.758308" longitude="-87.606685"/>
+	<place name ="Exchange Ave &amp; 79th St" latitude="41.751731" longitude="-87.552812"/>
+	<place name ="Fairbanks Ct &amp; Grand Ave" latitude="41.891860" longitude="-87.620620"/>
+	<place name ="Fairfield Ave &amp; Roosevelt Rd" latitude="41.866624" longitude="-87.694521"/>
+	<place name ="Federal St &amp; Polk St" latitude="41.872078" longitude="-87.629544"/>
+	<place name ="Field Blvd &amp; South Water St" latitude="41.886349" longitude="-87.617517"/>
+	<place name ="Field Museum" latitude="41.865312" longitude="-87.617867"/>
+	<place name ="Financial Pl &amp; Congress Pkwy" latitude="41.875009" longitude="-87.633106"/>
+	<place name ="Fort Dearborn Dr &amp; 31st St" latitude="41.838556" longitude="-87.608218"/>
+	<place name ="Francisco Ave &amp; Foster Ave" latitude="41.975633" longitude="-87.701419"/>
+	<place name ="Franklin St &amp; Chicago Ave" latitude="41.896776" longitude="-87.635633"/>
+	<place name ="Franklin St &amp; Jackson Blvd" latitude="41.877708" longitude="-87.635321"/>
+	<place name ="Franklin St &amp; Lake St" latitude="41.885837" longitude="-87.635500"/>
+	<place name ="Franklin St &amp; Monroe St" latitude="41.880317" longitude="-87.635185"/>
+	<place name ="Franklin St &amp; Quincy St" latitude="41.878724" longitude="-87.634793"/>
+	<place name ="Glenwood Ave &amp; Morse Ave" latitude="42.007972" longitude="-87.665502"/>
+	<place name ="Glenwood Ave &amp; Touhy Ave" latitude="42.012701" longitude="-87.666058"/>
+	<place name ="Green St &amp; Madison St" latitude="41.881892" longitude="-87.648789"/>
+	<place name ="Green St &amp; Randolph St" latitude="41.883668" longitude="-87.648670"/>
+	<place name ="Greenview Ave &amp; Diversey Pkwy" latitude="41.932595" longitude="-87.665939"/>
+	<place name ="Greenview Ave &amp; Fullerton Ave" latitude="41.925330" longitude="-87.665800"/>
+	<place name ="Greenview Ave &amp; Jarvis Ave" latitude="42.015962" longitude="-87.668570"/>
+	<place name ="Greenwood Ave &amp; 47th St" latitude="41.809835" longitude="-87.599383"/>
+	<place name ="Greenwood Ave &amp; 79th St" latitude="41.751294" longitude="-87.597552"/>
+	<place name ="Halsted St &amp; 18th St" latitude="41.857499" longitude="-87.646277"/>
+	<place name ="Halsted St &amp; 21st St" latitude="41.853780" longitude="-87.646650"/>
+	<place name ="Halsted St &amp; 35th St (*)" latitude="41.830661" longitude="-87.647172"/>
+	<place name ="Halsted St &amp; 37th St" latitude="41.827059" longitude="-87.645720"/>
+	<place name ="Halsted St &amp; 47th Pl" latitude="41.808134" longitude="-87.645617"/>
+	<place name ="Halsted St &amp; 51st St" latitude="41.801832" longitude="-87.645214"/>
+	<place name ="Halsted St &amp; 56th St" latitude="41.792930" longitude="-87.644990"/>
+	<place name ="Halsted St &amp; 59th St" latitude="41.787539" longitude="-87.644874"/>
+	<place name ="Halsted St &amp; 63rd St" latitude="41.779381" longitude="-87.644621"/>
+	<place name ="Halsted St &amp; 69th St" latitude="41.769062" longitude="-87.644614"/>
+	<place name ="Halsted St &amp; Archer Ave" latitude="41.847203" longitude="-87.646795"/>
+	<place name ="Halsted St &amp; Blackhawk St (*)" latitude="41.908537" longitude="-87.648627"/>
+	<place name ="Halsted St &amp; Dickens Ave" latitude="41.919936" longitude="-87.648830"/>
+	<place name ="Halsted St &amp; Diversey Pkwy" latitude="41.933666" longitude="-87.648959"/>
+	<place name ="Halsted St &amp; Maxwell St" latitude="41.864883" longitude="-87.647071"/>
+	<place name ="Halsted St &amp; North Branch St" latitude="41.899368" longitude="-87.648480"/>
+	<place name ="Halsted St &amp; Polk St" latitude="41.871840" longitude="-87.646640"/>
+	<place name ="Halsted St &amp; Roosevelt Rd" latitude="41.867324" longitude="-87.648625"/>
+	<place name ="Halsted St &amp; Roscoe St" latitude="41.943670" longitude="-87.648950"/>
+	<place name ="Halsted St &amp; Willow St" latitude="41.913778" longitude="-87.648840"/>
+	<place name ="Halsted St &amp; Wrightwood Ave" latitude="41.929143" longitude="-87.649077"/>
+	<place name ="Hampden Ct &amp; Diversey Pkwy" latitude="41.932620" longitude="-87.642385"/>
+	<place name ="Harper Ave &amp; 59th St" latitude="41.787943" longitude="-87.588315"/>
+	<place name ="Hermitage Ave &amp; Polk St" latitude="41.871514" longitude="-87.669886"/>
+	<place name ="Hoyne Ave &amp; 47th St" latitude="41.808227" longitude="-87.677180"/>
+	<place name ="Humboldt Blvd &amp; Armitage Ave" latitude="41.917513" longitude="-87.701809"/>
+	<place name ="Indiana Ave &amp; 26th St" latitude="41.845687" longitude="-87.622481"/>
+	<place name ="Indiana Ave &amp; 31st St" latitude="41.838842" longitude="-87.621857"/>
+	<place name ="Indiana Ave &amp; 40th St" latitude="41.821680" longitude="-87.621600"/>
+	<place name ="Indiana Ave &amp; Roosevelt Rd" latitude="41.867888" longitude="-87.623041"/>
+	<place name ="Jefferson St &amp; Monroe St" latitude="41.880422" longitude="-87.642746"/>
+	<place name ="Jeffery Blvd &amp; 67th St" latitude="41.773518" longitude="-87.577143"/>
+	<place name ="Jeffery Blvd &amp; 71st St" latitude="41.766638" longitude="-87.576450"/>
+	<place name ="Jeffery Blvd &amp; 76th St" latitude="41.757120" longitude="-87.575839"/>
+	<place name ="Kedzie Ave &amp; 21st St" latitude="41.853534" longitude="-87.705073"/>
+	<place name ="Kedzie Ave &amp; 24th St" latitude="41.848191" longitude="-87.705414"/>
+	<place name ="Kedzie Ave &amp; Bryn Mawr Ave" latitude="41.982397" longitude="-87.708923"/>
+	<place name ="Kedzie Ave &amp; Chicago Ave" latitude="41.895465" longitude="-87.706128"/>
+	<place name ="Kedzie Ave &amp; Foster Ave" latitude="41.975672" longitude="-87.709261"/>
+	<place name ="Kedzie Ave &amp; Harrison St" latitude="41.873600" longitude="-87.704871"/>
+	<place name ="Kedzie Ave &amp; Lake St" latitude="41.884603" longitude="-87.706304"/>
+	<place name ="Kedzie Ave &amp; Leland Ave" latitude="41.966686" longitude="-87.708052"/>
+	<place name ="Kedzie Ave &amp; Milwaukee Ave" latitude="41.929567" longitude="-87.707857"/>
+	<place name ="Kedzie Ave &amp; Palmer Ct" latitude="41.921525" longitude="-87.707322"/>
+	<place name ="Kedzie Ave &amp; Roosevelt Rd" latitude="41.866493" longitude="-87.706496"/>
+	<place name ="Kenton Ave &amp; Madison St" latitude="41.880708" longitude="-87.741018"/>
+	<place name ="Keystone Ave &amp; Fullerton Ave" latitude="41.924361" longitude="-87.727752"/>
+	<place name ="Keystone Ave &amp; Montrose Ave" latitude="41.961108" longitude="-87.728970"/>
+	<place name ="Kilbourn Ave &amp; Irving Park Rd" latitude="41.953733" longitude="-87.740569"/>
+	<place name ="Kilbourn Ave &amp; Milwaukee Ave" latitude="41.948818" longitude="-87.740020"/>
+	<place name ="Kimball Ave &amp; Belmont Ave" latitude="41.939398" longitude="-87.711561"/>
+	<place name ="Kimbark Ave &amp; 53rd St" latitude="41.799568" longitude="-87.594747"/>
+	<place name ="Kingsbury St &amp; Erie St" latitude="41.893882" longitude="-87.641711"/>
+	<place name ="Kingsbury St &amp; Kinzie St" latitude="41.889177" longitude="-87.638506"/>
+	<place name ="Knox Ave &amp; Montrose Ave" latitude="41.960631" longitude="-87.745359"/>
+	<place name ="Kosciuszko Park" latitude="41.930585" longitude="-87.723777"/>
+	<place name ="Kostner Ave &amp; Adams St" latitude="41.877917" longitude="-87.735737"/>
+	<place name ="Kostner Ave &amp; Lake St" latitude="41.885928" longitude="-87.735410"/>
+	<place name ="Lake Park Ave &amp; 35th St" latitude="41.831274" longitude="-87.608799"/>
+	<place name ="Lake Park Ave &amp; 47th St" latitude="41.809443" longitude="-87.591875"/>
+	<place name ="Lake Park Ave &amp; 53rd St" latitude="41.799494" longitude="-87.586450"/>
+	<place name ="Lake Park Ave &amp; 56th St" latitude="41.793242" longitude="-87.587782"/>
+	<place name ="Lake Shore Dr &amp; Belmont Ave" latitude="41.940775" longitude="-87.639192"/>
+	<place name ="Lake Shore Dr &amp; Diversey Pkwy" latitude="41.932684" longitude="-87.636250"/>
+	<place name ="Lake Shore Dr &amp; Monroe St" latitude="41.880958" longitude="-87.616743"/>
+	<place name ="Lake Shore Dr &amp; North Blvd" latitude="41.911722" longitude="-87.626804"/>
+	<place name ="Lake Shore Dr &amp; Ohio St" latitude="41.892570" longitude="-87.614492"/>
+	<place name ="Lake Shore Dr &amp; Wellington Ave" latitude="41.936669" longitude="-87.636794"/>
+	<place name ="Lakefront Trail &amp; Bryn Mawr Ave" latitude="41.984037" longitude="-87.652310"/>
+	<place name ="Lakeview Ave &amp; Fullerton Pkwy" latitude="41.925858" longitude="-87.638973"/>
+	<place name ="Laramie Ave &amp; Gladys Ave" latitude="41.875806" longitude="-87.755285"/>
+	<place name ="Laramie Ave &amp; Kinzie St" latitude="41.887832" longitude="-87.755527"/>
+	<place name ="Laramie Ave &amp; Madison St" latitude="41.880207" longitude="-87.755337"/>
+	<place name ="Larrabee St &amp; Armitage Ave" latitude="41.918084" longitude="-87.643749"/>
+	<place name ="Larrabee St &amp; Division St" latitude="41.903486" longitude="-87.643353"/>
+	<place name ="Larrabee St &amp; Kingsbury St" latitude="41.897764" longitude="-87.642884"/>
+	<place name ="Larrabee St &amp; Menomonee St" latitude="41.914680" longitude="-87.643320"/>
+	<place name ="Larrabee St &amp; North Ave" latitude="41.910210" longitude="-87.643500"/>
+	<place name ="Larrabee St &amp; Oak St" latitude="41.900219" longitude="-87.642985"/>
+	<place name ="Larrabee St &amp; Webster Ave" latitude="41.921822" longitude="-87.644140"/>
+	<place name ="LaSalle St &amp; Adams St" latitude="41.879344" longitude="-87.631985"/>
+	<place name ="LaSalle St &amp; Illinois St" latitude="41.890755" longitude="-87.632009"/>
+	<place name ="LaSalle St &amp; Jackson Blvd" latitude="41.878170" longitude="-87.631985"/>
+	<place name ="LaSalle St &amp; Washington St" latitude="41.882664" longitude="-87.632530"/>
+	<place name ="Lawndale Ave &amp; 23rd St" latitude="41.849882" longitude="-87.717000"/>
+	<place name ="Leavitt St &amp; Addison St" latitude="41.946655" longitude="-87.683359"/>
+	<place name ="Leavitt St &amp; Archer Ave" latitude="41.828792" longitude="-87.680604"/>
+	<place name ="Leavitt St &amp; Armitage Ave" latitude="41.917805" longitude="-87.682437"/>
+	<place name ="Leavitt St &amp; Lawrence Ave" latitude="41.968885" longitude="-87.684001"/>
+	<place name ="Leavitt St &amp; North Ave" latitude="41.910153" longitude="-87.682290"/>
+	<place name ="Lincoln Ave &amp; Addison St" latitude="41.946176" longitude="-87.673308"/>
+	<place name ="Lincoln Ave &amp; Belle Plaine Ave" latitude="41.955927" longitude="-87.679259"/>
+	<place name ="Lincoln Ave &amp; Belmont Ave" latitude="41.939365" longitude="-87.668385"/>
+	<place name ="Lincoln Ave &amp; Diversey Pkwy" latitude="41.932225" longitude="-87.658617"/>
+	<place name ="Lincoln Ave &amp; Fullerton Ave" latitude="41.925905" longitude="-87.649260"/>
+	<place name ="Lincoln Ave &amp; Leavitt St" latitude="41.962391" longitude="-87.684146"/>
+	<place name ="Lincoln Ave &amp; Roscoe St" latitude="41.943340" longitude="-87.670970"/>
+	<place name ="Lincoln Ave &amp; Waveland Ave" latitude="41.949110" longitude="-87.675112"/>
+	<place name ="Lincoln Ave &amp; Winona St" latitude="41.974911" longitude="-87.692503"/>
+	<place name ="Logan Blvd &amp; Elston Ave" latitude="41.930584" longitude="-87.685126"/>
+	<place name ="Loomis St &amp; Archer Ave" latitude="41.841633" longitude="-87.657435"/>
+	<place name ="Loomis St &amp; Jackson Blvd" latitude="41.877945" longitude="-87.662007"/>
+	<place name ="Loomis St &amp; Lexington St" latitude="41.872187" longitude="-87.661501"/>
+	<place name ="Loomis St &amp; Taylor St (*)" latitude="41.869417" longitude="-87.660996"/>
+	<place name ="Manor Ave &amp; Leland Ave" latitude="41.966318" longitude="-87.701083"/>
+	<place name ="Maplewood Ave &amp; Peterson Ave" latitude="41.990236" longitude="-87.693370"/>
+	<place name ="Marine Dr &amp; Ainslie St" latitude="41.971600" longitude="-87.650154"/>
+	<place name ="Marshfield Ave &amp; 44th St" latitude="41.813996" longitude="-87.666589"/>
+	<place name ="Marshfield Ave &amp; 59th St" latitude="41.786833" longitude="-87.666215"/>
+	<place name ="Marshfield Ave &amp; Cortland St" latitude="41.916017" longitude="-87.668879"/>
+	<place name ="Mason Ave &amp; Madison St" latitude="41.879980" longitude="-87.773264"/>
+	<place name ="May St &amp; 69th St" latitude="41.768938" longitude="-87.652934"/>
+	<place name ="May St &amp; Cullerton St" latitude="41.855136" longitude="-87.654127"/>
+	<place name ="May St &amp; Taylor St" latitude="41.869482" longitude="-87.655486"/>
+	<place name ="McClurg Ct &amp; Erie St" latitude="41.894503" longitude="-87.617854"/>
+	<place name ="McClurg Ct &amp; Illinois St" latitude="41.891020" longitude="-87.617300"/>
+	<place name ="McCormick Place" latitude="41.851375" longitude="-87.618835"/>
+	<place name ="Michigan Ave &amp; 14th St" latitude="41.864059" longitude="-87.623727"/>
+	<place name ="Michigan Ave &amp; 18th St" latitude="41.857813" longitude="-87.624550"/>
+	<place name ="Michigan Ave &amp; 8th St" latitude="41.872773" longitude="-87.623981"/>
+	<place name ="Michigan Ave &amp; Congress Pkwy" latitude="41.876243" longitude="-87.624426"/>
+	<place name ="Michigan Ave &amp; Jackson Blvd" latitude="41.877850" longitude="-87.624080"/>
+	<place name ="Michigan Ave &amp; Lake St" latitude="41.886024" longitude="-87.624117"/>
+	<place name ="Michigan Ave &amp; Madison St" latitude="41.882134" longitude="-87.625125"/>
+	<place name ="Michigan Ave &amp; Oak St" latitude="41.900960" longitude="-87.623777"/>
+	<place name ="Michigan Ave &amp; Pearson St" latitude="41.897660" longitude="-87.623510"/>
+	<place name ="Michigan Ave &amp; Washington St" latitude="41.883893" longitude="-87.624649"/>
+	<place name ="Mies van der Rohe Way &amp; Chestnut St" latitude="41.898587" longitude="-87.621915"/>
+	<place name ="Mies van der Rohe Way &amp; Chicago Ave" latitude="41.896910" longitude="-87.621743"/>
+	<place name ="Millard Ave &amp; 26th St" latitude="41.844567" longitude="-87.715910"/>
+	<place name ="Millennium Park" latitude="41.881032" longitude="-87.624084"/>
+	<place name ="Milwaukee Ave &amp; Cuyler Ave" latitude="41.954468" longitude="-87.749594"/>
+	<place name ="Milwaukee Ave &amp; Grand Ave" latitude="41.891578" longitude="-87.648384"/>
+	<place name ="Milwaukee Ave &amp; Rockwell St" latitude="41.920195" longitude="-87.693033"/>
+	<place name ="Milwaukee Ave &amp; Wabansia Ave" latitude="41.912616" longitude="-87.681391"/>
+	<place name ="MLK Jr Dr &amp; 29th St" latitude="41.842052" longitude="-87.617000"/>
+	<place name ="MLK Jr Dr &amp; 47th St" latitude="41.809851" longitude="-87.616279"/>
+	<place name ="MLK Jr Dr &amp; 56th St (*)" latitude="41.793429" longitude="-87.615853"/>
+	<place name ="MLK Jr Dr &amp; 63rd St" latitude="41.780081" longitude="-87.615943"/>
+	<place name ="MLK Jr Dr &amp; 83rd St" latitude="41.743116" longitude="-87.614800"/>
+	<place name ="MLK Jr Dr &amp; Oakwood Blvd" latitude="41.822560" longitude="-87.616150"/>
+	<place name ="Monticello Ave &amp; Irving Park Rd" latitude="41.954005" longitude="-87.719128"/>
+	<place name ="Montrose Harbor" latitude="41.963982" longitude="-87.638181"/>
+	<place name ="Morgan Ave &amp; 14th Pl" latitude="41.862378" longitude="-87.651062"/>
+	<place name ="Morgan St &amp; 18th St" latitude="41.858086" longitude="-87.651073"/>
+	<place name ="Morgan St &amp; 31st St" latitude="41.837800" longitude="-87.651140"/>
+	<place name ="Morgan St &amp; Lake St" latitude="41.885483" longitude="-87.652305"/>
+	<place name ="Morgan St &amp; Pershing Rd" latitude="41.823613" longitude="-87.650931"/>
+	<place name ="Morgan St &amp; Polk St" latitude="41.871737" longitude="-87.651030"/>
+	<place name ="Museum of Science and Industry" latitude="41.791728" longitude="-87.583945"/>
+	<place name ="Noble St &amp; Milwaukee Ave" latitude="41.900680" longitude="-87.662600"/>
+	<place name ="Normal Ave &amp; 72nd St" latitude="41.763462" longitude="-87.637297"/>
+	<place name ="Normal Ave &amp; Archer Ave" latitude="41.849527" longitude="-87.640591"/>
+	<place name ="Oakley Ave &amp; Irving Park Rd" latitude="41.954341" longitude="-87.686080"/>
+	<place name ="Oakley Ave &amp; Roscoe St" latitude="41.942916" longitude="-87.685801"/>
+	<place name ="Oakley Ave &amp; Touhy Ave" latitude="42.012342" longitude="-87.688243"/>
+	<place name ="Ogden Ave &amp; Chicago Ave" latitude="41.896362" longitude="-87.654061"/>
+	<place name ="Ogden Ave &amp; Congress Pkwy" latitude="41.875010" longitude="-87.673280"/>
+	<place name ="Ogden Ave &amp; Race Ave" latitude="41.891795" longitude="-87.658751"/>
+	<place name ="Ogden Ave &amp; Roosevelt Rd" latitude="41.866501" longitude="-87.684697"/>
+	<place name ="Orleans St &amp; Chestnut St (NEXT Apts)" latitude="41.898203" longitude="-87.637536"/>
+	<place name ="Orleans St &amp; Elm St (*)" latitude="41.902924" longitude="-87.637715"/>
+	<place name ="Orleans St &amp; Merchandise Mart Plaza" latitude="41.888243" longitude="-87.636390"/>
+	<place name ="Orleans St &amp; Ohio St" latitude="41.892154" longitude="-87.636928"/>
+	<place name ="Paulina Ave &amp; North Ave" latitude="41.910337" longitude="-87.670072"/>
+	<place name ="Paulina St &amp; 18th St" latitude="41.857901" longitude="-87.668745"/>
+	<place name ="Paulina St &amp; Howard St" latitude="42.019159" longitude="-87.673573"/>
+	<place name ="Paulina St &amp; Montrose Ave" latitude="41.961507" longitude="-87.671387"/>
+	<place name ="Peoria St &amp; Jackson Blvd" latitude="41.877749" longitude="-87.649633"/>
+	<place name ="Perry Ave &amp; 69th St" latitude="41.769293" longitude="-87.628196"/>
+	<place name ="Phillips Ave &amp; 79th St" latitude="41.751820" longitude="-87.565211"/>
+	<place name ="Phillips Ave &amp; 82nd St" latitude="41.746334" longitude="-87.564725"/>
+	<place name ="Pine Grove Ave &amp; Irving Park Rd" latitude="41.954383" longitude="-87.648043"/>
+	<place name ="Pine Grove Ave &amp; Waveland Ave" latitude="41.949275" longitude="-87.646303"/>
+	<place name ="Prairie Ave &amp; 43rd St" latitude="41.816659" longitude="-87.619412"/>
+	<place name ="Prairie Ave &amp; Garfield Blvd" latitude="41.794853" longitude="-87.618691"/>
+	<place name ="Princeton Ave &amp; 47th St" latitude="41.809318" longitude="-87.633449"/>
+	<place name ="Princeton Ave &amp; Garfield Blvd" latitude="41.794982" longitude="-87.633124"/>
+	<place name ="Pulaski Rd &amp; Congress Pkwy" latitude="41.874325" longitude="-87.725704"/>
+	<place name ="Pulaski Rd &amp; Eddy St" latitude="41.945636" longitude="-87.727737"/>
+	<place name ="Pulaski Rd &amp; Lake St" latitude="41.885409" longitude="-87.726491"/>
+	<place name ="Pulaski Rd &amp; Madison St" latitude="41.880827" longitude="-87.726279"/>
+	<place name ="Racine Ave &amp; 13th St" latitude="41.865054" longitude="-87.656959"/>
+	<place name ="Racine Ave &amp; 15th St" latitude="41.861267" longitude="-87.656625"/>
+	<place name ="Racine Ave &amp; 18th St" latitude="41.858166" longitude="-87.656495"/>
+	<place name ="Racine Ave &amp; 35th St" latitude="41.830696" longitude="-87.655976"/>
+	<place name ="Racine Ave &amp; 61st St" latitude="41.783189" longitude="-87.654372"/>
+	<place name ="Racine Ave &amp; 65th St" latitude="41.775393" longitude="-87.654308"/>
+	<place name ="Racine Ave &amp; Belmont Ave" latitude="41.939743" longitude="-87.658865"/>
+	<place name ="Racine Ave &amp; Congress Pkwy" latitude="41.874640" longitude="-87.657030"/>
+	<place name ="Racine Ave &amp; Fullerton Ave" latitude="41.925563" longitude="-87.658404"/>
+	<place name ="Racine Ave &amp; Garfield Blvd" latitude="41.794694" longitude="-87.654947"/>
+	<place name ="Racine Ave &amp; Randolph St" latitude="41.884069" longitude="-87.656853"/>
+	<place name ="Racine Ave &amp; Wrightwood Ave" latitude="41.928887" longitude="-87.658971"/>
+	<place name ="Racine Ave (May St) &amp; Fulton St" latitude="41.886926" longitude="-87.656919"/>
+	<place name ="Rainbow Beach" latitude="41.757871" longitude="-87.549386"/>
+	<place name ="Ravenswood Ave &amp; Balmoral Ave" latitude="41.979770" longitude="-87.675815"/>
+	<place name ="Ravenswood Ave &amp; Berteau Ave" latitude="41.957921" longitude="-87.673567"/>
+	<place name ="Ravenswood Ave &amp; Irving Park Rd" latitude="41.954690" longitude="-87.673930"/>
+	<place name ="Ravenswood Ave &amp; Lawrence Ave" latitude="41.969090" longitude="-87.674237"/>
+	<place name ="Ravenswood Ave &amp; Montrose Ave (*)" latitude="41.961615" longitude="-87.674365"/>
+	<place name ="Rhodes Ave &amp; 32nd St" latitude="41.836208" longitude="-87.613533"/>
+	<place name ="Richmond St &amp; Diversey Ave" latitude="41.931902" longitude="-87.701195"/>
+	<place name ="Ridge Blvd &amp; Howard St" latitude="42.019276" longitude="-87.684520"/>
+	<place name ="Ridge Blvd &amp; Touhy Ave" latitude="42.012132" longitude="-87.682913"/>
+	<place name ="Ritchie Ct &amp; Banks St" latitude="41.906782" longitude="-87.626402"/>
+	<place name ="Rockwell St &amp; Eastwood Ave" latitude="41.965900" longitude="-87.693638"/>
+	<place name ="Rush St &amp; Cedar St" latitude="41.902309" longitude="-87.627691"/>
+	<place name ="Rush St &amp; Hubbard St" latitude="41.890011" longitude="-87.626293"/>
+	<place name ="Rush St &amp; Superior St" latitude="41.895765" longitude="-87.625908"/>
+	<place name ="Sacramento Blvd &amp; Franklin Blvd" latitude="41.889727" longitude="-87.701030"/>
+	<place name ="Saginaw Ave &amp; Exchange Ave" latitude="41.758746" longitude="-87.560115"/>
+	<place name ="Sangamon St &amp; Washington Blvd (*)" latitude="41.883004" longitude="-87.651148"/>
+	<place name ="Sawyer Ave &amp; Irving Park Rd" latitude="41.953586" longitude="-87.709311"/>
+	<place name ="Sedgwick St &amp; Huron St" latitude="41.894666" longitude="-87.638437"/>
+	<place name ="Sedgwick St &amp; North Ave" latitude="41.911386" longitude="-87.638677"/>
+	<place name ="Sedgwick St &amp; Schiller St" latitude="41.905664" longitude="-87.638517"/>
+	<place name ="Sedgwick St &amp; Webster Ave" latitude="41.922167" longitude="-87.638888"/>
+	<place name ="Seeley Ave &amp; Garfield Blvd" latitude="41.794087" longitude="-87.675478"/>
+	<place name ="Seeley Ave &amp; Roscoe St" latitude="41.943403" longitude="-87.679618"/>
+	<place name ="Shedd Aquarium" latitude="41.867226" longitude="-87.615355"/>
+	<place name ="Sheffield Ave &amp; Fullerton Ave" latitude="41.925602" longitude="-87.653708"/>
+	<place name ="Sheffield Ave &amp; Kingsbury St" latitude="41.910522" longitude="-87.653106"/>
+	<place name ="Sheffield Ave &amp; Waveland Ave" latitude="41.949399" longitude="-87.654529"/>
+	<place name ="Sheffield Ave &amp; Webster Ave" latitude="41.921540" longitude="-87.653818"/>
+	<place name ="Sheffield Ave &amp; Wellington Ave" latitude="41.936266" longitude="-87.652662"/>
+	<place name ="Sheffield Ave &amp; Willow St" latitude="41.913688" longitude="-87.652855"/>
+	<place name ="Sheffield Ave &amp; Wrightwood Ave" latitude="41.928712" longitude="-87.653833"/>
+	<place name ="Sheridan Rd &amp; Buena Ave" latitude="41.958494" longitude="-87.654966"/>
+	<place name ="Sheridan Rd &amp; Greenleaf Ave" latitude="42.010587" longitude="-87.662412"/>
+	<place name ="Sheridan Rd &amp; Irving Park Rd" latitude="41.954245" longitude="-87.654406"/>
+	<place name ="Sheridan Rd &amp; Lawrence Ave" latitude="41.969517" longitude="-87.654691"/>
+	<place name ="Sheridan Rd &amp; Loyola Ave" latitude="42.001044" longitude="-87.661198"/>
+	<place name ="Sheridan Rd &amp; Montrose Ave" latitude="41.961670" longitude="-87.654640"/>
+	<place name ="Shields Ave &amp; 28th Pl" latitude="41.842733" longitude="-87.635491"/>
+	<place name ="Shields Ave &amp; 31st St" latitude="41.838464" longitude="-87.635406"/>
+	<place name ="Shields Ave &amp; 43rd St" latitude="41.816208" longitude="-87.634819"/>
+	<place name ="Shore Dr &amp; 55th St" latitude="41.795212" longitude="-87.580715"/>
+	<place name ="South Chicago Ave &amp; 83rd St" latitude="41.743921" longitude="-87.575225"/>
+	<place name ="South Shore Dr &amp; 67th St" latitude="41.773643" longitude="-87.567514"/>
+	<place name ="South Shore Dr &amp; 71st St" latitude="41.766409" longitude="-87.565688"/>
+	<place name ="South Shore Dr &amp; 74th St" latitude="41.762189" longitude="-87.559275"/>
+	<place name ="Southport Ave &amp; Belmont Ave" latitude="41.939490" longitude="-87.663780"/>
+	<place name ="Southport Ave &amp; Clark St" latitude="41.957081" longitude="-87.664199"/>
+	<place name ="Southport Ave &amp; Clybourn Ave" latitude="41.920771" longitude="-87.663712"/>
+	<place name ="Southport Ave &amp; Irving Park Rd" latitude="41.954177" longitude="-87.664358"/>
+	<place name ="Southport Ave &amp; Roscoe St" latitude="41.943739" longitude="-87.664020"/>
+	<place name ="Southport Ave &amp; Waveland Ave" latitude="41.948150" longitude="-87.663940"/>
+	<place name ="Southport Ave &amp; Wellington Ave" latitude="41.935733" longitude="-87.663576"/>
+	<place name ="Southport Ave &amp; Wrightwood Ave" latitude="41.928773" longitude="-87.663913"/>
+	<place name ="Spaulding Ave &amp; Armitage Ave" latitude="41.917184" longitude="-87.710357"/>
+	<place name ="Spaulding Ave &amp; Division St" latitude="41.902707" longitude="-87.709220"/>
+	<place name ="St. Clair St &amp; Erie St" latitude="41.894448" longitude="-87.622663"/>
+	<place name ="St. Louis Ave &amp; Balmoral Ave" latitude="41.980394" longitude="-87.716115"/>
+	<place name ="State St &amp; 19th St" latitude="41.856594" longitude="-87.627542"/>
+	<place name ="State St &amp; 29th St" latitude="41.841707" longitude="-87.626938"/>
+	<place name ="State St &amp; 33rd St" latitude="41.834734" longitude="-87.625813"/>
+	<place name ="State St &amp; 35th St" latitude="41.831040" longitude="-87.626880"/>
+	<place name ="State St &amp; 76th St" latitude="41.756971" longitude="-87.624621"/>
+	<place name ="State St &amp; 79th St" latitude="41.750794" longitude="-87.624424"/>
+	<place name ="State St &amp; Harrison St" latitude="41.874053" longitude="-87.627716"/>
+	<place name ="State St &amp; Kinzie St" latitude="41.889187" longitude="-87.627754"/>
+	<place name ="State St &amp; Pearson St" latitude="41.897448" longitude="-87.628722"/>
+	<place name ="State St &amp; Pershing Rd" latitude="41.823015" longitude="-87.626568"/>
+	<place name ="State St &amp; Randolph St" latitude="41.884730" longitude="-87.627734"/>
+	<place name ="State St &amp; Van Buren St" latitude="41.877181" longitude="-87.627844"/>
+	<place name ="Stave St &amp; Armitage Ave" latitude="41.917741" longitude="-87.691392"/>
+	<place name ="Stetson Ave &amp; South Water St" latitude="41.886835" longitude="-87.622320"/>
+	<place name ="Stockton Dr &amp; Wrightwood Ave" latitude="41.931320" longitude="-87.638742"/>
+	<place name ="Stony Island Ave &amp; 64th St" latitude="41.778701" longitude="-87.586788"/>
+	<place name ="63rd St Beach" latitude="41.781016" longitude="-87.576120"/>
+	<place name ="Stony Island Ave &amp; 71st St" latitude="41.766493" longitude="-87.586461"/>
+	<place name ="Stony Island Ave &amp; 75th St" latitude="41.758670" longitude="-87.586883"/>
+	<place name ="Stony Island Ave &amp; 82nd St" latitude="41.746559" longitude="-87.586005"/>
+	<place name ="Stony Island Ave &amp; South Chicago Ave" latitude="41.751173" longitude="-87.585337"/>
+	<place name ="Streeter Dr &amp; Grand Ave" latitude="41.892278" longitude="-87.612043"/>
+	<place name ="Talman Ave &amp; Addison St" latitude="41.946636" longitude="-87.694615"/>
+	<place name ="Theater on the Lake" latitude="41.926277" longitude="-87.630834"/>
+	<place name ="Throop St &amp; 52nd St" latitude="41.799659" longitude="-87.657195"/>
+	<place name ="Troy St &amp; Elston Ave" latitude="41.945244" longitude="-87.706650"/>
+	<place name ="Troy St &amp; North Ave" latitude="41.909769" longitude="-87.705280"/>
+	<place name ="Union Ave &amp; Root St" latitude="41.819102" longitude="-87.643278"/>
+	<place name ="University Ave &amp; 57th St" latitude="41.791478" longitude="-87.599861"/>
+	<place name ="Vernon Ave &amp; 75th St" latitude="41.758361" longitude="-87.614138"/>
+	<place name ="Vernon Ave &amp; 79th St" latitude="41.750951" longitude="-87.613783"/>
+	<place name ="Wabash Ave &amp; 16th St" latitude="41.860384" longitude="-87.625813"/>
+	<place name ="Wabash Ave &amp; 83rd St" latitude="41.743316" longitude="-87.622849"/>
+	<place name ="Wabash Ave &amp; 87th St" latitude="41.736646" longitude="-87.622634"/>
+	<place name ="Wabash Ave &amp; 8th St" latitude="41.871962" longitude="-87.626106"/>
+	<place name ="Wabash Ave &amp; Adams St" latitude="41.879472" longitude="-87.625689"/>
+	<place name ="Wabash Ave &amp; Cermak Rd" latitude="41.852619" longitude="-87.626488"/>
+	<place name ="Wabash Ave &amp; Grand Ave" latitude="41.890912" longitude="-87.626804"/>
+	<place name ="Wabash Ave &amp; Roosevelt Rd" latitude="41.867227" longitude="-87.625961"/>
+	<place name ="Wabash Ave &amp; Wacker Pl" latitude="41.886875" longitude="-87.626030"/>
+	<place name ="Wacker Dr &amp; Washington St" latitude="41.883272" longitude="-87.637313"/>
+	<place name ="Wallace St &amp; 35th St" latitude="41.830629" longitude="-87.641290"/>
+	<place name ="Warren Park East" latitude="42.004550" longitude="-87.680666"/>
+	<place name ="Warren Park West" latitude="42.002007" longitude="-87.689726"/>
+	<place name ="Washtenaw Ave &amp; 15th St (*)" latitude="41.861480" longitude="-87.693374"/>
+	<place name ="Washtenaw Ave &amp; Lawrence Ave" latitude="41.968711" longitude="-87.696170"/>
+	<place name ="Wells St &amp; 19th St" latitude="41.856802" longitude="-87.633879"/>
+	<place name ="Wells St &amp; Concord Ln" latitude="41.912133" longitude="-87.634656"/>
+	<place name ="Wells St &amp; Elm St" latitude="41.903222" longitude="-87.634324"/>
+	<place name ="Wells St &amp; Evergreen Ave" latitude="41.906724" longitude="-87.634830"/>
+	<place name ="Wells St &amp; Huron St" latitude="41.894729" longitude="-87.634371"/>
+	<place name ="Wells St &amp; Polk St" latitude="41.872596" longitude="-87.633502"/>
+	<place name ="Wells St &amp; Walton St" latitude="41.899930" longitude="-87.634430"/>
+	<place name ="Wentworth Ave &amp; 24th St" latitude="41.849237" longitude="-87.631715"/>
+	<place name ="Wentworth Ave &amp; 33rd St" latitude="41.834530" longitude="-87.631823"/>
+	<place name ="Wentworth Ave &amp; 35th St" latitude="41.830777" longitude="-87.632504"/>
+	<place name ="Wentworth Ave &amp; 63rd St" latitude="41.780080" longitude="-87.629746"/>
+	<place name ="Wentworth Ave &amp; Archer Ave" latitude="41.853605" longitude="-87.631886"/>
+	<place name ="Western Ave &amp; 21st St" latitude="41.853940" longitude="-87.685243"/>
+	<place name ="Western Ave &amp; 24th St" latitude="41.848470" longitude="-87.685109"/>
+	<place name ="Western Ave &amp; 28th St" latitude="41.841518" longitude="-87.685131"/>
+	<place name ="Western Ave &amp; Congress Pkwy" latitude="41.874749" longitude="-87.686445"/>
+	<place name ="Western Ave &amp; Division St" latitude="41.902893" longitude="-87.687275"/>
+	<place name ="Western Ave &amp; Granville Ave" latitude="41.994161" longitude="-87.689438"/>
+	<place name ="Western Ave &amp; Howard St" latitude="42.018901" longitude="-87.690048"/>
+	<place name ="Western Ave &amp; Leland Ave" latitude="41.966555" longitude="-87.688487"/>
+	<place name ="Western Ave &amp; Lunt Ave" latitude="42.008594" longitude="-87.690492"/>
+	<place name ="Western Ave &amp; Monroe St" latitude="41.879788" longitude="-87.686113"/>
+	<place name ="Western Ave &amp; Walton St" latitude="41.898418" longitude="-87.686596"/>
+	<place name ="Western Ave &amp; Winnebago Ave" latitude="41.915520" longitude="-87.687022"/>
+	<place name ="Western Blvd &amp; 48th Pl" latitude="41.805661" longitude="-87.683392"/>
+	<place name ="Wilton Ave &amp; Belmont Ave" latitude="41.940180" longitude="-87.653040"/>
+	<place name ="Wilton Ave &amp; Diversey Pkwy" latitude="41.932418" longitude="-87.652705"/>
+	<place name ="Winchester Ave &amp; Elston Ave" latitude="41.924091" longitude="-87.676460"/>
+	<place name ="Wolcott Ave &amp; Fargo Ave" latitude="42.016977" longitude="-87.677725"/>
+	<place name ="Wolcott Ave &amp; Polk St" latitude="41.871262" longitude="-87.673688"/>
+	<place name ="Wood St &amp; 35th St" latitude="41.830105" longitude="-87.670298"/>
+	<place name ="Wood St &amp; Division St" latitude="41.903320" longitude="-87.672730"/>
+	<place name ="Wood St &amp; Hubbard St" latitude="41.889587" longitude="-87.671956"/>
+	<place name ="Wood St &amp; Milwaukee Ave" latitude="41.907655" longitude="-87.672552"/>
+	<place name ="Wood St &amp; Taylor St" latitude="41.869154" longitude="-87.671045"/>
+	<place name ="Woodlawn Ave &amp; 55th St" latitude="41.795264" longitude="-87.596471"/>
+	<place name ="Woodlawn Ave &amp; 75th St" latitude="41.759160" longitude="-87.595751"/>
+	<place name ="Woodlawn Ave &amp; Lake Park Ave" latitude="41.814093" longitude="-87.597005"/>
+	<place name ="Yates Blvd &amp; 75th St" latitude="41.758768" longitude="-87.566440"/>
+	<place name ="Benson Ave &amp; Church St" latitude="42.048214" longitude="-87.683485"/>
+	<place name ="Central St &amp; Girard Ave" latitude="42.063999" longitude="-87.685962"/>
+	<place name ="Central St Metra" latitude="42.063598" longitude="-87.698730"/>
+	<place name ="Chicago Ave &amp; Sheridan Rd" latitude="42.050491" longitude="-87.677821"/>
+	<place name ="Chicago Ave &amp; Washington St" latitude="42.032562" longitude="-87.679101"/>
+	<place name ="Dodge Ave &amp; Church St" latitude="42.048308" longitude="-87.698224"/>
+	<place name ="Elmwood Ave &amp; Austin St" latitude="42.025784" longitude="-87.684107"/>
+	<place name ="Sheridan Rd &amp; Noyes St (NU)" latitude="42.058239" longitude="-87.677432"/>
+	<place name ="University Library (NU)" latitude="42.052939" longitude="-87.673447"/>
+	<place name ="Valli Produce - Evanston Plaza" latitude="42.039742" longitude="-87.699413"/>
+	<place name ="Cuyler Ave &amp; Augusta St" latitude="41.898168" longitude="-87.783055"/>
+	<place name ="East Ave &amp; Garfield St" latitude="41.871312" longitude="-87.788938"/>
+	<place name ="East Ave &amp; Madison St" latitude="41.880113" longitude="-87.789247"/>
+	<place name ="Forest Ave &amp; Chicago Ave" latitude="41.894355" longitude="-87.800220"/>
+	<place name ="Forest Ave &amp; Lake St" latitude="41.888910" longitude="-87.800255"/>
+	<place name ="Humphrey Ave &amp; Ontario St" latitude="41.890249" longitude="-87.778281"/>
+	<place name ="Lombard Ave &amp; Garfield St" latitude="41.870699" longitude="-87.778797"/>
+	<place name ="Lombard Ave &amp; Madison St" latitude="41.879810" longitude="-87.779425"/>
+	<place name ="Marion St &amp; South Blvd" latitude="41.886810" longitude="-87.802870"/>
+	<place name ="Oak Park Ave &amp; Harrison St" latitude="41.872987" longitude="-87.793945"/>
+	<place name ="Oak Park Ave &amp; South Blvd" latitude="41.886923" longitude="-87.793899"/>
+	<place name ="Ridgeland Ave &amp; Lake St" latitude="41.888085" longitude="-87.785236"/>
+	<place name ="Wisconsin Ave &amp; Madison St" latitude="41.879837" longitude="-87.802240"/>
+</root>
