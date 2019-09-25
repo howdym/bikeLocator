@@ -4,7 +4,7 @@ This program takes an already made MySQL database that contains data shown in th
 
 # Instructions 
 
-Follow the prompts on the terminal. 
+Follow the prompts on the terminal. Open start.bat to get started.
 
 # Note 
 
